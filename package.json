@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "fake-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaj55billy/fake-server.git"
+  },
+  "author": "Billy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaj55billy/fake-server/issues"
+  },
+  "homepage": "https://github.com/yaj55billy/fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
