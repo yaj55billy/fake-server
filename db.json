@@ -1,39 +1,63 @@
 {
-  "users": [
+  "squatdata": [
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "date": "2021-08-10",
+      "train": [
+        {
+          "load": 60,
+          "rep": 8,
+          "set": 5
+        }
+      ]
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "date": "2021-08-12",
+      "train": [
+        {
+          "load": 50,
+          "rep": 8,
+          "set": 2
+        },
+        {
+          "load": 70,
+          "rep": 8,
+          "set": 3
+        }
+      ]
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "date": "2021-08-14",
+      "train": [
+        {
+          "load": 65,
+          "rep": 8,
+          "set": 5
+        }
+      ]
     },
     {
       "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
-    },
-    {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "date": "2021-08-16",
+      "train": [
+        {
+          "load": 65,
+          "rep": 8,
+          "set": 1
+        },
+        {
+          "load": 70,
+          "rep": 8,
+          "set": 2
+        },
+        {
+          "load": 75,
+          "rep": 8,
+          "set": 2
+        }
+      ]
     }
   ]
 }
